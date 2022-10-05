@@ -20,13 +20,31 @@ ASSIGNMENT RULES
 let integerExample = 200;
 let decimalExample = 2.5;
 
+// 2.Strings(any type of data represented in double quotes)
+
+let stringExample = "Hello";
+let anotherString = "Welcome to the year 2028";
+
+// 3.Booleans(its a true or false type of variable)
+
+let booleansExample = true;
+let anotherBooleans = false;
+
+// 4.Undefined (its an undetermined variable)
+
+let undefinedExample;
+
+// 4.Null (its a variable with nothing inside)
+
+let undefinedExample = null;
+
 /* EXERCISE 2
  Try to describe what a variable is, in your own words.
 */
 
 /* WRITE YOUR ANSWER HERE */
 
-// A variable is like container that stores Data. The data can be changed later hence the name 'variable'
+("A variable is like container that stores Data. The data can be changed later hence the name 'variable'");
 
 /* EXERCISE 3
  Write the code to execute an addition (a sum) of the numbers 12 and 20.
